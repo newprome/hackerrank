@@ -1,4 +1,6 @@
-// Given a sentence, s, print each word of the sentence in a new line.
+//Printing Tokens
+
+//Given a sentence, s, print each word of the sentence in a new line.
 
 // Input Format
 
